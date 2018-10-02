@@ -1,7 +1,6 @@
 - Welcome to Raye7 Task 
 
-- The task wis to show the news from api by using "Volley" web services , because it's easy to use and more simple.
-
+- The task wis to show the news from api by using "Volley" web services , because it's easy to use and more simple " i can also use   "Retrofit" .
 - The news was showen in recycler view , the easiest way to show mutiple items as list , you can click to go to the news url,
   and long click to add the new to your favorite list. 
 
