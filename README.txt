@@ -7,5 +7,6 @@
 
 - By using floating action button , you can view your favorite news that was saved in SQLITE database , to show to user at any time.
 
-- Finally , there is a guide message to help you to understand how the app works , this message shows only at first time the user install app.
+- Finally , there is a guide message to help you to understand how the app works , this message shows only at first time the user install   app.
+- You can find APK file in release tab, to see the results 
  
